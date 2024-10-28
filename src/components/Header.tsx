@@ -1,21 +1,3 @@
-// import React from 'react';
-
-// const Header: React.FC = () => {
-//   return (
-//     <div className="bg-light2Brand flex justify-between items-center  p-4 text-black">
-//       <div className="flex-grow" /> {/* This empty div takes up space to push links to the right */}
-//       <nav className="space-x-4">
-//         <a href="/" className="text-pink-500">Home</a>
-//         <a href="/about" className="hover:text-pink-500">About Us</a>
-//         <a href="/services" className="hover:text-pink-500">Service</a>
-//         <a href="/contact" className="hover:text-pink-500">Contact</a>
-//       </nav>
-//     </div>
-//   );
-// };
-
-// export default Header;
-
 
 import React, { useState } from 'react';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
